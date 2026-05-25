@@ -1,6 +1,6 @@
-# meet-bounti.ai — cold-outreach landing page
+# meet-bounti.com — cold-outreach landing page
 
-Static landing page served at https://meet-bounti.ai via GitHub Pages.
+Static landing page served at https://meet-bounti.com via GitHub Pages.
 
 ## Why this exists
 
@@ -36,7 +36,7 @@ auto-provisioned by GitHub after DNS propagates.
 
 ## DNS records at Namecheap
 
-For `meet-bounti.ai`, apex A records pointing at GitHub Pages IPs:
+For `meet-bounti.com`, apex A records pointing at GitHub Pages IPs:
 
 ```
 @  A  185.199.108.153
